@@ -1,0 +1,4 @@
+{
+	"block":{"sx":68,"sy":170,"tileW":34,"tileH":34, "frames":1},
+	"hittedBlock":{"sx":102,"sy":102,"tileW":34,"tileH":34, "frames":1}
+}

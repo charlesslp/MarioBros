@@ -1,0 +1,12 @@
+{
+	"frog":{"sx":0,"sy":0,"tileW":48,"tileH":48,"frames":3},
+	"bg":{"sx":433,"sy":0,"tileW":320,"tileH":480,"frames":1},
+	"car1":{"sx":143,"sy":0,"tileW":48,"tileH":48,"frames":1},
+	"car2":{"sx":191,"sy":0,"tileW":48,"tileH":48,"frames":1},
+	"car3":{"sx":239,"sy":0,"tileW":96,"tileH":48,"frames":1},
+	"car4":{"sx":335,"sy":0,"tileW":48,"tileH":48,"frames":1},
+	"car5":{"sx":383,"sy":0,"tileW":48,"tileH":48,"frames":1},
+	"trunk":{"sx":287,"sy":383,"tileW":144,"tileH":48,"frames":1},
+	"death":{"sx":0,"sy":143,"tileW":48,"tileH":48,"frames":4}, 
+	"title":{"sx":0,"sy":431,"tileW":240,"tileH":48,"frames":1}
+}
