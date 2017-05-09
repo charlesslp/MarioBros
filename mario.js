@@ -1,9 +1,4 @@
 
-/*
-Alumnos:
-  - Arturo Marino Quintana - 05450695V
-  - Carlos Martinez Perez - 02735059Z
-*/
 
 var game = function() {
 	
